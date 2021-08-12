@@ -1,0 +1,6 @@
+D:\IntelligentQA\Report\bin\Debug\Report.exe.config
+D:\IntelligentQA\Report\bin\Debug\Report.exe
+D:\IntelligentQA\Report\bin\Debug\Report.pdb
+D:\IntelligentQA\Report\obj\Debug\Report.csproj.CoreCompileInputs.cache
+D:\IntelligentQA\Report\obj\Debug\Report.exe
+D:\IntelligentQA\Report\obj\Debug\Report.pdb

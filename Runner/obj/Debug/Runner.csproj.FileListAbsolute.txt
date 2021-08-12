@@ -1,0 +1,17 @@
+D:\IntelligentQA\Runner\bin\Debug\Runner.exe.config
+D:\IntelligentQA\Runner\bin\Debug\Runner.exe
+D:\IntelligentQA\Runner\bin\Debug\Runner.pdb
+D:\IntelligentQA\Runner\bin\Debug\Engine.dll
+D:\IntelligentQA\Runner\bin\Debug\Report.exe
+D:\IntelligentQA\Runner\bin\Debug\TestsExamples.dll
+D:\IntelligentQA\Runner\bin\Debug\Core.dll
+D:\IntelligentQA\Runner\bin\Debug\Engine.pdb
+D:\IntelligentQA\Runner\bin\Debug\TestsExamples.pdb
+D:\IntelligentQA\Runner\bin\Debug\Report.pdb
+D:\IntelligentQA\Runner\bin\Debug\Report.exe.config
+D:\IntelligentQA\Runner\bin\Debug\Core.pdb
+D:\IntelligentQA\Runner\obj\Debug\Runner.csproj.AssemblyReference.cache
+D:\IntelligentQA\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+D:\IntelligentQA\Runner\obj\Debug\Runner.csproj.CopyComplete
+D:\IntelligentQA\Runner\obj\Debug\Runner.exe
+D:\IntelligentQA\Runner\obj\Debug\Runner.pdb

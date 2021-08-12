@@ -1,0 +1,6 @@
+D:\IntelligentQA\Core\bin\Debug\Core.dll
+D:\IntelligentQA\Core\bin\Debug\Core.pdb
+D:\IntelligentQA\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\IntelligentQA\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\IntelligentQA\Core\obj\Debug\Core.dll
+D:\IntelligentQA\Core\obj\Debug\Core.pdb

@@ -1,0 +1,9 @@
+D:\IntelligentQA\GroupOfTests\TestsExamples\bin\Debug\TestsExamples.dll
+D:\IntelligentQA\GroupOfTests\TestsExamples\bin\Debug\TestsExamples.pdb
+D:\IntelligentQA\GroupOfTests\TestsExamples\bin\Debug\Core.dll
+D:\IntelligentQA\GroupOfTests\TestsExamples\bin\Debug\Core.pdb
+D:\IntelligentQA\GroupOfTests\TestsExamples\obj\Debug\TestsExamples.csproj.AssemblyReference.cache
+D:\IntelligentQA\GroupOfTests\TestsExamples\obj\Debug\TestsExamples.csproj.CoreCompileInputs.cache
+D:\IntelligentQA\GroupOfTests\TestsExamples\obj\Debug\TestsExamples.csproj.CopyComplete
+D:\IntelligentQA\GroupOfTests\TestsExamples\obj\Debug\TestsExamples.dll
+D:\IntelligentQA\GroupOfTests\TestsExamples\obj\Debug\TestsExamples.pdb
